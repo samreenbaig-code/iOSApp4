@@ -48,21 +48,6 @@ Backend: Firebase (Realtime Database + Storage)
 
 Tools: Xcode, CocoaPods, Git, GitHub
 
-🧾 Project Structure
-KidsProgressApp/
-│
-├── KidsProgressApp.swift          # Main entry point
-├── Models/
-│   └── Student.swift               # Data model for each record
-├── ViewModels/
-│   └── StudentViewModel.swift      # Handles CRUD logic
-├── Views/
-│   └── ContentView.swift           # Main SwiftUI interface
-├── Firebase/
-│   └── FirebaseManager.swift       # Central Firebase setup
-└── Assets/
-    └── App assets & icons
-
 📸 Demo
 
 ✨ Add new record to Firebase
