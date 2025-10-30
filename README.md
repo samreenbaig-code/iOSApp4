@@ -78,7 +78,7 @@ KidsProgressApp/
 📬 Submission
 
 GitHub Repository Link:
-🔗 https://github.com/yourusername/KidsProgressApp
+🔗 https://github.com/samreenbaig-code/KidsProgressApp
 
 Instructor notified via Microsoft Teams / Email.
 
